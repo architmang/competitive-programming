@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/archit/Desktop/competitive-programming/AZ_Graphs",
+      "program": "/Users/archit/Desktop/competitive-programming/AZ_Graphs/build/Debug/outDebug"
+    }
+  ]
+}

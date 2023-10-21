@@ -1,0 +1,1 @@
+{"name":"Local: occurence_s_in_t","url":"/Users/archit/Desktop/competitive-programming/Strings/occurence_s_in_t.cpp","tests":[{"id":1696429306897,"input":"1\naba abaababa","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/archit/Desktop/competitive-programming/Strings/occurence_s_in_t.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: q3a","url":"/Users/archit/Desktop/competitive-programming/Contest/Div2/q3a.cpp","tests":[{"id":1696865086968,"input":"3\ncab\n6\nabcd\n9\nx\n1","output":"abx"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/archit/Desktop/competitive-programming/Contest/Div2/q3a.cpp","group":"local","local":true}

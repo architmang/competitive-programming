@@ -1,0 +1,1 @@
+{"name":"Local: q5","url":"/Users/archit/Desktop/competitive-programming/Contest/AtCoder/q5.cpp","tests":[{"id":1695924299340,"input":"5\n10 2 0\n10 2 1\n10 2 2\n10 2 3\n10 2 4\n","output":"1\n3\n4\n2\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/archit/Desktop/competitive-programming/Contest/AtCoder/q5.cpp","group":"local","local":true}
